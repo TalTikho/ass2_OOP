@@ -1,8 +1,3 @@
-/*
-* Tal Tikhonov
-* 215275512
-* ass2
-*/
 /**
  * The Point class represents a point in a 2D coordinate system.
  */
