@@ -1,8 +1,3 @@
-/*
- * Tal Tikhonov
- * 215275512
- * ass2
- */
 /**
  * the velocity class represents the velocity of the (future) moving ball.
  *  Velocity specifies the change in position on the `x` and the `y` axes.
