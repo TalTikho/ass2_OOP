@@ -1,8 +1,3 @@
-/*
- * Tal Tikhonov
- * 215275512
- * ass2
- */
 import java.awt.Color;
 import biuoop.GUI;
 import biuoop.DrawSurface;
