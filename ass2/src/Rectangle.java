@@ -1,8 +1,3 @@
-/*
- * Tal Tikhonov
- * 215275512
- * ass2
- */
 /**
  * Represent rectangle just because the checkstyle did not let me use 8 variables in a method.
  */
