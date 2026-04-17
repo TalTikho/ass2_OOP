@@ -1,8 +1,3 @@
-/*
- * Tal Tikhonov
- * 215275512
- * ass2
- */
 /**
  * The Line class represents a line segment in a 2D coordinate system.
  */
